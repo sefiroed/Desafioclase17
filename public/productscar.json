@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2021-08-28T20:28:58-03:00",
+    "name": "casa",
+    "description": "lugar",
+    "codeproduct": 5544,
+    "url": "http://mercadolibre.com",
+    "price": 27500,
+    "stock": 2
+  },
+  {
+    "id": 2,
+    "timestamp": "2021-08-28T20:28:58-03:00",
+    "name": "casa",
+    "description": "lugar",
+    "codeproduct": 5544,
+    "url": "http://mercadolibre.com",
+    "price": 27500,
+    "stock": 2
+  },
+  {
+    "id": 5,
+    "timestamp": "2021-08-28T22:53:10-03:00",
+    "name": "casa",
+    "description": "lugar",
+    "codeproduct": 5544,
+    "url": "http://mercadolibre.com",
+    "price": 27500,
+    "stock": 2
+  },
+  {
+    "id": 6,
+    "timestamp": "2021-08-28T22:53:10-03:00",
+    "name": "casa",
+    "description": "lugar",
+    "codeproduct": 5544,
+    "url": "http://mercadolibre.com",
+    "price": 27500,
+    "stock": 2
+  },
+  {
+    "id": 7,
+    "timestamp": "2021-08-28T22:53:10-03:00",
+    "name": "casa",
+    "description": "lugar",
+    "codeproduct": 5544,
+    "url": "http://mercadolibre.com",
+    "price": 27500,
+    "stock": 2
+  },
+  {
+    "id": 8,
+    "timestamp": "2021-08-28T22:53:10-03:00",
+    "name": "casa",
+    "description": "lugar",
+    "codeproduct": 5544,
+    "url": "http://mercadolibre.com",
+    "price": 27500,
+    "stock": 2
+  },
+  {
+    "id": 9,
+    "timestamp": "2021-08-28T22:53:10-03:00",
+    "name": "casa",
+    "description": "lugar",
+    "codeproduct": 5544,
+    "url": "http://mercadolibre.com",
+    "price": 27500,
+    "stock": 2
+  },
+  {
+    "id": 10,
+    "timestamp": "2021-08-28T22:54:07-03:00",
+    "name": "casa",
+    "description": "lugar",
+    "codeproduct": 5544,
+    "url": "http://mercadolibre.com",
+    "price": 27500,
+    "stock": 2
+  },
+  {
+    "id": 11,
+    "timestamp": "2021-08-28T22:54:07-03:00",
+    "name": "casa",
+    "description": "lugar",
+    "codeproduct": 5544,
+    "url": "http://mercadolibre.com",
+    "price": 27500,
+    "stock": 2
+  },
+  {
+    "id": 12,
+    "timestamp": "2021-08-28T22:54:07-03:00",
+    "name": "casa",
+    "description": "lugar",
+    "codeproduct": 5544,
+    "url": "http://mercadolibre.com",
+    "price": 27500,
+    "stock": 2
+  }
+]
